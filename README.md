@@ -1,3 +1,3 @@
 # Calculator
 
-<a href="https://replit.com/@Himanshu0330/Calculator?v=1">Click Here</a>
+<a https://calculator--himanshu0330.repl.co/">Click Here</a>
